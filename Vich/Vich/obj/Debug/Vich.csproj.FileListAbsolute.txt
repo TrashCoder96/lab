@@ -1,0 +1,9 @@
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\bin\Debug\Vich.exe.config
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\bin\Debug\Vich.exe
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\bin\Debug\Vich.pdb
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\obj\Debug\Vich.csprojResolveAssemblyReference.cache
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\obj\Debug\Vich.Form1.resources
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\obj\Debug\Vich.Properties.Resources.resources
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\obj\Debug\Vich.csproj.GenerateResource.Cache
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\obj\Debug\Vich.exe
+C:\Users\asus-pc\Documents\GitHub\thread-modeler\Vich\Vich\obj\Debug\Vich.pdb
